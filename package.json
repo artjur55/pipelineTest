@@ -1,0 +1,23 @@
+{
+  "name": "pipelineTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artjur55/pipelineTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artjur55/pipelineTest/issues"
+  },
+  "homepage": "https://github.com/artjur55/pipelineTest#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
